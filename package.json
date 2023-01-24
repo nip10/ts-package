@@ -2,6 +2,18 @@
   "name": "ts-package",
   "license": "MIT",
   "version": "1.0.0",
+  "author": {
+    "name": "Diogo Cardoso",
+    "email": "hi@diogocardoso.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nip10/ts-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nip10/ts-package/issues"
+  },
+  "homepage": "https://github.com/nip10/ts-package#readme",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
